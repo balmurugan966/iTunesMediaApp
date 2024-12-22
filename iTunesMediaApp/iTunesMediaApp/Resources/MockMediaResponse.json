@@ -1,0 +1,29 @@
+{
+    "results": [
+        {
+            "wrapperType": "track",
+            "kind": "song",
+            "trackName": "Track One",
+            "artistName": "Artist One",
+            "artworkUrl100": "https://example.com/artwork1.jpg",
+            "previewUrl": "https://example.com/preview1.mp3",
+            "collectionName": "Album One",
+            "trackPrice": 1.29,
+            "currency": "USD",
+            "collectionViewUrl": "https://example.com/album1"
+        },
+        {
+            "wrapperType": "track",
+            "kind": "song",
+            "trackName": "Track Two",
+            "artistName": "Artist Two",
+            "artworkUrl100": "https://example.com/artwork2.jpg",
+            "previewUrl": "https://example.com/preview2.mp3",
+            "collectionName": "Album Two",
+            "trackPrice": 1.99,
+            "currency": "USD",
+            "collectionViewUrl": "https://example.com/album2"
+        }
+    ]
+}
+
